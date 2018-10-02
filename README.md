@@ -1,4 +1,4 @@
-# NaughtyAttributes
+# Editor
 Attribute Extensions for Unity
 
 ## System Requirements
